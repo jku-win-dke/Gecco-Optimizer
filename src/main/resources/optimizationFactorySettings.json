@@ -1,0 +1,7 @@
+{
+  "JENETICS":"at.jku.dke.harmonic.optimizer.optimization.jenetics.jeneticsSO.SOJeneticsOptimizationFactory",
+  "JENETICS_MO":"at.jku.dke.harmonic.optimizer.optimization.jenetics.jeneticsMO.MOJeneticsOptimizationFactory",
+  "JENETICS_MLA": "at.jku.dke.harmonic.optimizer.optimization.jenetics.jeneticsMLA.MLAJeneticsOptimizationFactory",
+  "OPTAPLANNER":"at.jku.dke.slotmachine.optimizer.optimization.optaplanner.OptaplannerOptimizationFactory",
+  "HUNGARIAN":"at.jku.dke.harmonic.optimizer.optimization.hungarian.HungarianOptimizationFactory"
+}
