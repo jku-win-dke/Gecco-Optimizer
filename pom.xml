@@ -18,7 +18,6 @@
         <log4j2.version>2.17.1</log4j2.version>
         <springfox.version>2.6.1</springfox.version>
         <jenetics.version>7.1.2</jenetics.version>
-        <slma-object.version>1.0.16</slma-object.version>
     </properties>
     <dependencies>
 		<dependency>
@@ -81,9 +80,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.frequentis.slotmachine</groupId>
-            <artifactId>slma-object</artifactId>
-            <version>${slma-object.version}</version>
+            <groupId>com.optimization.objects</groupId>
+            <artifactId>gecco-optimization-object</artifactId>
+            <version>1.0.16</version>
         </dependency>
     </dependencies>
 
