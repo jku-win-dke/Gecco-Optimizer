@@ -18,7 +18,6 @@
         <log4j2.version>2.17.1</log4j2.version>
         <springfox.version>2.6.1</springfox.version>
         <jenetics.version>7.1.2</jenetics.version>
-        <optaplanner.version>8.14.0.Final</optaplanner.version>
         <slma-object.version>1.0.16</slma-object.version>
     </properties>
     <dependencies>
@@ -80,22 +79,6 @@
             <artifactId>jenetics.ext</artifactId>
             <version>${jenetics.version}</version>
         </dependency>
-
-        <dependency>
-            <groupId>org.optaplanner</groupId>
-            <artifactId>optaplanner-core</artifactId>
-            <version>${optaplanner.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.optaplanner</groupId>
-            <artifactId>optaplanner-persistence-jpa</artifactId>
-            <version>${optaplanner.version}</version>
-        </dependency>       
-        <dependency>
-	    	<groupId>org.optaplanner</groupId>
-	    	<artifactId>optaplanner-benchmark</artifactId>
-            <version>${optaplanner.version}</version>
-	  	</dependency>
 
         <dependency>
             <groupId>com.frequentis.slotmachine</groupId>

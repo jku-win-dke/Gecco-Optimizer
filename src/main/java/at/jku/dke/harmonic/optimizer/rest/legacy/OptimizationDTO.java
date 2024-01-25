@@ -32,10 +32,10 @@ public class OptimizationDTO {
 	private Map<String,Object> parameters;
 
 	@Nullable
-	private String optimizationFramework; // JENETICS, OPTAPLANNER, HUNGARIAN
+	private String optimizationFramework; // JENETICS, HUNGARIAN
 
 	@Nullable
-	private String optimizationType; // MULTI_OBJECTIVE, SINGLE_OBJECTIVE
+	private String optimizationType; // MULTI_OBJECTIVE, SINGLE_OBJECTIVE, MLA
 	@Nullable
 	private String fitnessEstimator;
 
