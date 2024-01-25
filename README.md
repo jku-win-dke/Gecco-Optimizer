@@ -1,1 +1,1 @@
-# Harmonic-Optimizer
+# Gecco-Optimizer

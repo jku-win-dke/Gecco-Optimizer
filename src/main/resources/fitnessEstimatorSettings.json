@@ -1,5 +1,5 @@
 {
-  "LINEAR":"at.jku.dke.harmonic.optimizer.optimization.fitnessEstimation.LinearFitnessEstimator",
-  "LOGARITHMIC":"at.jku.dke.harmonic.optimizer.optimization.fitnessEstimation.LogarithmicFitnessEstimator",
-  "SIGMOID":"at.jku.dke.harmonic.optimizer.optimization.fitnessEstimation.SigmoidFitnessEstimator"
+  "LINEAR":"optimizer.optimization.fitnessEstimation.LinearFitnessEstimator",
+  "LOGARITHMIC":"optimizer.optimization.fitnessEstimation.LogarithmicFitnessEstimator",
+  "SIGMOID":"optimizer.optimization.fitnessEstimation.SigmoidFitnessEstimator"
 }

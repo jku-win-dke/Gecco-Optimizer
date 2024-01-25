@@ -12,8 +12,8 @@ import java.io.InputStream;
 public class OptimizerApplication {
     private static final Logger logger = LogManager.getLogger();
 
-    public static final String FACTORY_PROPERTY = "harmonic.optimization.factory";
-    public static final String FITNESS_ESTIMATOR = "harmonic.optimization.estimator";
+    public static final String FACTORY_PROPERTY = "optimization.factory";
+    public static final String FITNESS_ESTIMATOR = "optimization.estimator";
 
     public static void main(String[] args) {
         final String resourceName = "optimizationFactorySettings.json";

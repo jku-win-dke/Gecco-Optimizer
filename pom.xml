@@ -8,7 +8,7 @@
         <version>2.4.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>at.jku.dke.slotmachine</groupId>
+    <groupId>optimizer</groupId>
     <artifactId>optimizer</artifactId>
     <version>1.0.2</version>
     <name>SlotMachine-Optimizer</name>
