@@ -5,7 +5,9 @@ It accepts a JSON file for future optimization sessions, optimizes the flight de
 
 ## Usage
 
-Use `mvn clean install` to install Heuristic Optimizer from the source.
+For the optimizer the gecco objects must be install: `https://anonymous.4open.science/r/Gecco-Objects-DF7C/README.md`
+
+Use `mvn spring-boot:run` to execute the Heuristic Optimizer from the source.
 
 The Swagger interface of the REST server can be accessed via `http://localhost:8080/swagger-ui.html`.
 
