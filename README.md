@@ -5,7 +5,7 @@ It accepts a JSON file for future optimization sessions, optimizes the flight de
 
 ## Usage
 
-For the optimizer the gecco objects must be installed: `https://github.com/jku-win-dke/Gecco-Objects`
+For the optimizer the gecco objects must be installed: `https://doi.org/10.5281/zenodo.10940541`
 
 Use `mvn spring-boot:run` to execute the Heuristic Optimizer from the source.
 
